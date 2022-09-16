@@ -1,18 +1,19 @@
 ---
 content_type: page
+description: In this section Professor Scott Sheffield describes various aspects of
+  how he teaches 18.600 Probability and Random Variables.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: fbaeb22b-365c-6309-d67e-ad7940ae7df6
 ---
-
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
-Below, Professor Scott Sheffield describes various aspects of how he teaches _18.600 Probability and Random Variables__._
+Below, Professor Scott Sheffield describes various aspects of how he teaches _18.600 Probability and Random Variables._
 
 **OCW:** How would you describe what probability is to someone unfamiliar with the topic? And why does it matter?
 
@@ -70,8 +71,7 @@ And then the next semester we throw it all away and start over again. Each class
 
 {{< /div-with-class >}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -79,9 +79,9 @@ Curriculum Information
 
 ### Requirements Satisfied
 
-*   GIR ![](/images/educator/icon-question-gir.png)
-*   REST ![](/images/educator/icon-question-rest.png)
-*   18.600 can be applied toward a [Bachelor of Science in Mathematics](http://catalog.mit.edu/degree-charts/mathematics-course-18/), but is not required.
+- GIR ![](/images/educator/icon-question-gir.png)
+- REST ![](/images/educator/icon-question-rest.png)
+- 18.600 can be applied toward a [Bachelor of Science in Mathematics](http://catalog.mit.edu/degree-charts/mathematics-course-18/), but is not required.
 
 ### Offered
 
@@ -89,34 +89,25 @@ Every semester
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
 The students' grades were based on the following activities:
 
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
 - 20% Ten problem sets
 - 40% Two midterm exams
 - 40% Final exam
 
-{{< tdclose >}}
+## Student Information
 
-{{< trclose >}}
+### Enrollment
 
-{{< tableclose >}}
-
-Student Information
--------------------
-
-{{< resource bddf5210-20a6-2574-485c-febd5a21097e >}}
+152 students
 
 ### Breakdown by Year
 
-A roughly even mix of levels, with fewer first-year students in the fall semester because many entering students take _[18.02 Multivariable Calculus](/courses/18-02sc-multivariable-calculus-fall-2010)_ (the prerequisite for 18.600) in their first semester.
+A roughly even mix of levels, with fewer first-year students in the fall semester because many entering students take [_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010) (the prerequisite for 18.600) in their first semester.
 
 ### Breakdown by Major
 
@@ -128,35 +119,28 @@ Many but not all of the students have learned some probability and combinatorics
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Lecture
--------
+### Lecture
 
 Met 3 times per week for 1 hour per session; 39 sessions total; mandatory attendance.
 
-Recitation
-----------
+### Recitation
 
 Recitations, led by teaching assistants, met 1 time per week for 1 hour per session; 13 sessions total; mandatory attendance.
 
-Out of Class
-------------
+### Out of Class
 
 Outside of class time, students worked to complete {{% resource_link 094b223d-dec4-382c-8969-c5c3f5977ca5 "problem sets" %}} and study for the {{% resource_link 404e31ed-65f7-9ae3-39b0-66e31da833f7 "midterms and final exam" %}}.
 
-Course Team Roles
------------------
+## Course Team Roles
 
-Professor Sheffield
--------------------
+### Professor Sheffield
 
 Delivering lectures; conducting office hours two hours per week
 
-Teaching Assistants (3) 
-------------------------
+### Teaching Assistants (3) 
 
 Leading recitations; conducting office hours two hours per week
